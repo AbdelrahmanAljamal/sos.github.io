@@ -14,9 +14,10 @@
 
 ### INDEPENDENT PROJECTS 
 --------------------------------------------------------------------------------------- 
-* **PERSONAL PORTFOLIO WEBSITE** (SEP 2020 – DEC 2020)
+*  **PERSONAL PORTFOLIO WEBSITE** (SEP 2020 – DEC 2020)
   * Implemented a personal portfolio website to demonstrate my proficiency in frontend & backend development.
   * Languages used/API: HTML, CSS, React JS.    
+  * 
 * **DATA ANALYSIS PROJECT | DATACAMP** (MAY 2021 – JUN 2021) 
   * Processed, manipulated, and cleaned data using Python, Pandas, and NumPy. 
   * Performed the data analysis process to provide clean statistical insights from the data. 
@@ -25,10 +26,11 @@
   
 ### WORK EXPERIENCE  
 --------------------------------------------------------------------------------------- 
-* **OFFICE MANAGER | MANITOBA ISLAMIC ASSOCIATION**  (SEP 2019 - _PRESENT_) 
+*  **OFFICE MANAGER | MANITOBA ISLAMIC ASSOCIATION**  (SEP 2019 - _PRESENT_) 
   * Set, plan, and implement awareness campaigns community development. 
   * Provide administrative support to MIA staff members.      
-* **EVENT COORDINATOR LEAD | TARBEYA CENTRE** (JUN 2016 - SEP 2019)
+  
+*  **EVENT COORDINATOR LEAD | TARBEYA CENTRE** (JUN 2016 - SEP 2019)
   * Coordinated and booked different venues and other services (Ex. catering).
   * Handling problems that may arise during events and coordinating volunteers’ event positions.
   * Enforce safety regulations and facility rules in all facilities customers.  
